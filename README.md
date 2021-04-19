@@ -5,11 +5,12 @@
 - 📫 How to reach me - here's my email - james.stadler10@gmail.com
 
 Projects I'm most proud of:
-Game: Blix
+Game: Blix:
 Appstore: https://apps.apple.com/pe/app/blix/id1516647294?l=en
 Web: https://barrybingle.itch.io/blix
 
-App: Releasing soon!
+Webapp: Math.Sound:
+Web: https://barrybingle.github.io/Math.Sound/
 
 
 <!---
