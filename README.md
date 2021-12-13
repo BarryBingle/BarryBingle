@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything interesting to be honest
 - 📫 How to reach me - here's my email - james.stadler10@gmail.com
 
-Projects I'm most proud of:
+Projects:
 Game: Blix:
 Appstore: https://apps.apple.com/pe/app/blix/id1516647294?l=en
 Web: https://barrybingle.itch.io/blix
